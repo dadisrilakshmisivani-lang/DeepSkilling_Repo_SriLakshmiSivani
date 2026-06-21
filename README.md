@@ -1,4 +1,4 @@
-# Week 1 - Design Patterns and Principles,Datas Structures and Alogorithms
+# Week 1 - Design Patterns and Principles,Data Structures and Algorithms
 
 This repository contains the exercises completed during Week 1 of the Digital Nurture Program.
 
