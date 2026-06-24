@@ -28,3 +28,26 @@ Worked with control structures such as conditional statements and loops to perfo
 ### Exercise 3: Stored Procedures
 
 Created stored procedures for banking-related scenarios, including ProcessMonthlyInterest, UpdateEmployeeBonus and TransferFunds.
+
+
+**Objective**
+
+
+Understand how to use Java logging for application monitoring.
+Learn to log warning and error messages.
+Practice using the Logger class and logging levels.
+**Tools Used**
+
+Java JDK 25
+Visual Studio Code (VS Code)
+java.util.logging package
+
+**Key Concepts**
+
+WARNING level indicates potential issues.
+SEVERE level indicates critical errors.
+Logging helps in debugging and application maintenance.
+Conclusion
+Implemented logging using Java's built-in Logger.
+Logged warning and error messages successfully.
+Observed log output during program execution.
