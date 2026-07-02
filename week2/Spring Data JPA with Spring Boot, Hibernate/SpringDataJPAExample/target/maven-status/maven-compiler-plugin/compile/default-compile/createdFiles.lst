@@ -1,0 +1,3 @@
+com\example\springdatajpaexample\repository\StudentRepository.class
+com\example\springdatajpaexample\SpringDataJpaExampleApplication.class
+com\example\springdatajpaexample\entity\Student.class
