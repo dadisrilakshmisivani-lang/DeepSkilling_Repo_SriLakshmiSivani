@@ -1,23 +1,5 @@
 # Module 13 – Containerization using Docker 
 
-##  Overview
-
-In this module, we will learn about **Docker**, a popular platform used to create, manage, and run applications inside containers.
-
-By the end of this module, we will understand:
-
-- What is Docker?
-- Docker commands
-- Docker images and containers
-- Dockerfile
-- Docker Compose
-- Docker Engine
-- Docker Storage
-- Docker Networking
-- Container Orchestration and Kubernetes
-
-
----
 
 # 1. Introduction to Docker
 
