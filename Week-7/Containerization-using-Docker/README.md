@@ -907,34 +907,3 @@ Containers
 | Example: Docker Engine | Example: Kubernetes |
 
 
----
-
-# 12. Interview Questions
-
-
-### 1. What is Docker?
-
-Docker is a platform used to create and run applications inside containers.
-
-
-### 2. Difference between Image and Container?
-
-Image is a blueprint, while a container is a running instance of an image.
-
-
-### 3. What is Dockerfile?
-
-Dockerfile contains instructions to create a Docker image.
-
-
-### 4. What is Docker Compose?
-
-Docker Compose manages multiple containers using a YAML configuration file.
-
-
-### 5. What is Kubernetes?
-
-Kubernetes is a container orchestration platform used to manage containers at scale.
-
-
-
